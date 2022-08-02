@@ -119,6 +119,14 @@
   #RESET
 \*-----------------------------------*/
 
+#icon-mode{
+  width: 30px;
+  cursor: pointer;
+}
+
+
+
+
 *, *::before, *::after {
   margin: 0;
   padding: 0;
